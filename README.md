@@ -35,6 +35,8 @@ a way that allows fast-growing apps to remain easy to change.
 Visit [https://upgrow.shopify.io](https://upgrow.shopify.io) to learn more about
 creating a sustainable architecture for your Rails apps.
 
+https://web.archive.org/web/20210304183319/https://upgrow.shopify.io/
+
 ## The Upgrow Gem
 
 This project offers a Ruby gem to make it easier for Rails apps to adopt the
